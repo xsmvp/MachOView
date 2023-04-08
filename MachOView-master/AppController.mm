@@ -23,7 +23,7 @@ int64_t nrow_loaded; // number of loaded rows
 //----------------------------------------------------------------------------
 - (BOOL)applicationShouldOpenUntitledFile:(NSApplication *)sender
 {
-  return NO;
+  return YES;
 }
 
 //----------------------------------------------------------------------------
