@@ -1,6 +1,6 @@
 # Fork 自 [fangshufeng/MachOView](https://github.com/fangshufeng/MachOView)
 ## 处理了M1下打开App没有反应的问题
-也可以直接在此处**[下载]**(https://github.com/fangshufeng/MachOView)
+也可以直接在此处[下载](https://github.com/fangshufeng/MachOView)
 
 # MachOView 
 
