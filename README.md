@@ -1,3 +1,6 @@
+# Fork 自 [fangshufeng/MachOView](https://github.com/fangshufeng/MachOView)
+## 处理了M1下打开App没有反应的问题
+
 # MachOView 
 
 该工程是建立在[轮子](https://github.com/gdbinit/MachOView)上的，感谢作者的贡献，遗憾的源工程无法直接编译，这边自己维护了下。
